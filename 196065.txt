@@ -1,0 +1,25 @@
+PS C:\Users\Niki i Sara\Documents\GitHub\-SI_2022_lab1_196065> git log
+commit aafa05b63498b083bef37ba88ade472ee278e6ff (HEAD -> branch1, master, branch2)
+Author: Smladenovska <100212774+Smladenovska@users.noreply.github.com>
+Date:   Thu Apr 7 20:52:07 2022 +0200
+
+    Add quantities to the items.
+
+commit c46ed04f2f10a43030403e3f710dd85ad78e7c36
+Author: Smladenovska <100212774+Smladenovska@users.noreply.github.com>
+Date:   Thu Apr 7 20:50:53 2022 +0200
+
+    Add items to the shopping list
+
+
+commit 858aa24beefd76dc4c3ed37e45bcac500e4e78d0
+Author: Smladenovska <100212774+Smladenovska@users.noreply.github.com>
+Date:   Mon Mar 7 13:00:12 2022 +0100
+
+    Update README.md
+
+commit e2bbd7f10374180ea117ce646f400ecc3346bd68
+Author: Smladenovska <100212774+Smladenovska@users.noreply.github.com>
+Date:   Mon Mar 7 12:59:15 2022 +0100
+
+    Initial commit
