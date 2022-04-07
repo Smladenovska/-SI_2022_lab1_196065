@@ -1,0 +1,5 @@
+juice x3
+bread x1
+water x6
+fruit x4
+pumpkin x6
