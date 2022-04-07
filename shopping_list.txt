@@ -1,5 +1,5 @@
 flowers x5
-bread x4
+bread x3
 cheece x2
 mushrooms x6
 pumpkin x3
