@@ -3,3 +3,4 @@ bread x4
 cheece x2
 banana x6
 pumpkin x3
+juice x5
