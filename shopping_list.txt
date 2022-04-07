@@ -1,5 +1,0 @@
-tea x2
-bread x3
-juice x6
-rice x1
-water x4
